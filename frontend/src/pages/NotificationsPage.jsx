@@ -60,7 +60,7 @@ const NotificationsPage = () => {
                                   year: {request.sender.year}
                                 </span>
                                 <span className="badge badge-outline badge-sm">
-                                  couse: {request.sender.course}
+                                  course: {request.sender.course}
                                 </span>
                               </div>
                             </div>

@@ -81,16 +81,7 @@ const HomePage = () => {
               Bridge the Year Gap. Build the Bond.
             </p>
           </div>
-          <Link 
-            to="/notifications" 
-            className="flex items-center gap-2 px-6 py-3.5 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 font-medium hover:scale-105"
-          >
-            <UsersIcon className="size-5" />
-            Friend Requests
-            <div className="ml-1 bg-white/20 px-2 py-0.5 rounded-full text-xs">
-              {outgoingFriendReqs?.length || 0}
-            </div>
-          </Link>
+         
         </div>
 
         {/* Stats */}
