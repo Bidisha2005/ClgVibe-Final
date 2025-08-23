@@ -74,7 +74,7 @@ const HomePage = () => {
                 <GlobeIcon className="text-white size-7" />
               </div>
               <h1 className="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-                CampusConnect
+               The ClgVibe
               </h1>
             </div>
             <p className="text-slate-600 text-lg max-w-2xl">
