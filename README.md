@@ -85,28 +85,6 @@ clgVibe provides a **unified, campus-centric platform** that:
 ### 👤 Campus-Centric Profiles
 - **Year/Major Integration**: Connect with relevant peers
 - **Skills & Interests**: AI-powered matching
----
-
-
-### Request Flow
-
-```
-User Action → React Component → Redux/Context
-                                      ↓
-                              API Call (Axios)
-                                      ↓
-                              JWT Validation
-                                      ↓
-                         Express Route Handler
-                                      ↓
-                        Business Logic Layer
-                                      ↓
-                    Database Query (Mongoose)
-                                      ↓
-                           Response → Client
-                                      ↓
-                              UI Update
-```
 
 ---
 
@@ -188,8 +166,44 @@ npm start
 
 ---
 
+### Manual Deployment
 
-## 🚀 Deployment
+Both Frontend and Backend on render.
 
-### Production Deployment (Render)
+---
 
+## 🎯 Future Enhancements
+
+- [ ] Weekly/monthly analytics dashboard
+- [ ] AI-powered study group recommendations
+- [ ] Calendar integration for scheduling
+- [ ] Mobile app (React Native)
+- [ ] Gamification with achievement badges
+- [ ] Integration with LMS platforms
+
+---
+
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@Bidisha2005](https://github.com/Bidisha2005)
+- LinkedIn: [Bidisha Kundu](https://www.linkedin.com/in/bidisha-kundu-41706428b/)
+
+---
+
+## 🙏 Acknowledgments
+
+- [Stream Chat](https://getstream.io/) - Real-time chat infrastructure
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Managed database
+- [Tailwind CSS](https://tailwindcss.com/) - UI framework
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it useful! ⭐**
+
+Made with ❤️ for students, by students
+
+</div>
