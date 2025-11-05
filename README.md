@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-**clgVibe** is a full-stack campus communication platform designed to bridge the knowledge gap between students across different academic years. By facilitating seamless mentorship, study group formation, and real-time collaboration, clgVibe transforms how students connect, learn, and grow together.
+**ClgVibe** is a full-stack campus communication platform designed to bridge the knowledge gap between students across different academic years. By facilitating seamless mentorship, study group formation, and real-time collaboration, clgVibe transforms how students connect, learn, and grow together.
 
 ### 🎥 Quick Demo
 
