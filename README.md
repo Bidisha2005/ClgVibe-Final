@@ -2,17 +2,13 @@
 
 <div align="center">
 
-![clgVibe Logo](https://via.placeholder.com/200x200/4F46E5/FFFFFF?text=clgVibe)
-
 **Connecting Students. Sharing Knowledge. Building Communities.**
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Stream Chat](https://img.shields.io/badge/Stream-Chat-005FFF?style=flat&logo=stream&logoColor=white)](https://getstream.io/)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-[Live Demo](https://clgvibe.com) • [Documentation](https://docs.clgvibe.com) • [Report Bug](https://github.com/yourusername/clgvibe/issues) • [Request Feature](https://github.com/yourusername/clgvibe/issues)
 
 </div>
 
