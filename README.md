@@ -133,7 +133,7 @@ npm run build
 # Create .env files in both backend/ and frontend/
 
 # 4. Start MongoDB (if local)
-mongod
+mongodb Compass
 
 # 5. Start the application
 npm start
