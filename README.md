@@ -80,7 +80,7 @@ clgVibe provides a **unified, campus-centric platform** that:
 
 ### 👤 Campus-Centric Profiles
 - **Year/Major Integration**: Connect with relevant peers
-- **Skills & Interests**: AI-powered matching
+- **Skills & Interests**: User Input
 
 ---
 
