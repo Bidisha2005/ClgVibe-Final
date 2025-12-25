@@ -191,7 +191,7 @@ Both Frontend and Backend on render.
 
 ## 👤 Author
 
-**Your Name**
+**Bidisha Kundu**
 - GitHub: [@Bidisha2005](https://github.com/Bidisha2005)
 - LinkedIn: [Bidisha Kundu](https://www.linkedin.com/in/bidisha-kundu-41706428b/)
 
@@ -209,6 +209,6 @@ Both Frontend and Backend on render.
 
 **⭐ Star this repo if you find it useful! ⭐**
 
-Made with ❤️ for students, by students
+Made with ❤️ for students, by Bidisha
 
 </div>
